@@ -18,11 +18,13 @@
     <ClCompile Include="ParadigmaOOP1_0087.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Agregasi.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="anak.h">
       <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ibu.cpp">
+    </ClInclude>
+    <ClInclude Include="ibu.h">
       <Filter>Header Files</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
