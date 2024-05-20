@@ -18,5 +18,8 @@
     <ClCompile Include="ParadigmaOOP1_0087.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Agregasi.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
