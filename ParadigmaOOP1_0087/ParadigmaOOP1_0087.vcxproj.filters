@@ -21,5 +21,8 @@
     <ClCompile Include="Agregasi.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ibu.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
