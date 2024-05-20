@@ -1,3 +1,4 @@
+#pragma once
 #ifndef JANTUNG_H
 #define JANTUNG_H
 
@@ -8,7 +9,7 @@ public:
 	jantung() {
 		cout << "jantung dihidupkan\n";
 	}
-	~jantung() {
+	`jantung() {
 		cout << "jantung dimatikan\n";
 	}
 };
