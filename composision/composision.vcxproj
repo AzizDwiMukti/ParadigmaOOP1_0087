@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="Jantung.h" />
     <ClInclude Include="Manusia.h" />
+    <ClInclude Include="MineM.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
